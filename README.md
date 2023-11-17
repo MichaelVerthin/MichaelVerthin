@@ -6,13 +6,16 @@ I'm Michael Verthin, a passionate Quality Assurance tester. Welcome to my GitHub
 
 ## 🔧 Technologies & Tools
 
-![Your Favorite Tech](https://img.shields.io/badge/-Tech-333333?style=flat&logo=tech)
-![Another Tech](https://img.shields.io/badge/-Another%20Tech-333333?style=flat&logo=another-tech)
+![Git](https://img.shields.io/badge/-Git-333333?style=flat&logo=git)
+![VS Code](https://img.shields.io/badge/-VS%20Code-333333?style=flat&logo=visual-studio-code)
+![Java](https://img.shields.io/badge/-Java-333333?style=flat&logo=java)
+![JIRA](https://img.shields.io/badge/-JIRA-333333?style=flat&logo=jira-software)
+![Postman](https://img.shields.io/badge/-Postman-333333?style=flat&logo=postman)
 
 ## 📈 GitHub Stats
 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MichaelVerthin&layout=compact)](https://github.com/MichaelVerthin)
 [![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=MichaelVerthin&count_private=true&show_icons=true&theme=radical)](https://github.com/MichaelVerthin)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yourusername&layout=compact)](https://github.com/yourusername)
 
 ## 📚 Latest Blog Posts
 
@@ -31,5 +34,7 @@ I'm Michael Verthin, a passionate Quality Assurance tester. Welcome to my GitHub
 
 If you find my work helpful, consider [sponsoring me](https://github.com/sponsors/MichaelVerthin). It helps to keep the lights on and allows me to continue creating content and maintaining projects.
 
-## ⚡ Fun fact: I once found a critical bug in production by following a butterfly effect of seemingly unrelated minor issues during a testing session. Always expect the unexpected in QA!
+## ⚡ Fun fact:
+
+WI once found a critical bug in production by following a butterfly effect of seemingly unrelated minor issues during a testing session. Always expect the unexpected in QA!
 
