@@ -1,6 +1,6 @@
 <div align="center">
 
-![Profile Views](https://komarev.com/ghpvc/?username=MichaelVerthin&style=for-the-badge)
+![Profile Views](https://komarev.com/ghpvc/?username=MichaelVerthin&style=for-the-badge&color=FF6E32&base=1230)
 
 </div>
 
