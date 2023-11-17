@@ -46,6 +46,7 @@
 <div align="center">
   
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=MichaelVerthin&repo=Projects-Java&show_owner=true&theme=codeSTACKr)](https://github.com/MichaelVerthin/Projects-Java)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=MichaelVerthin&repo=Projects-Java&show_owner=true&theme=codeSTACKr)](https://github.com/MichaelVerthin/Projects-Java)
 
 </div>
 
