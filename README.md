@@ -9,7 +9,6 @@
 ## 🔧 Technologies & Tools
 
 <div align="center">
-
 ### Programming Languages
 ![C](https://img.shields.io/badge/-C-00599C?style=flat&logo=c&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-333333?style=flat&logo=javascript)
@@ -22,37 +21,43 @@
 ![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat&logo=github&logoColor=white)
 ![Jira](https://img.shields.io/badge/-Jira-0052CC?style=flat&logo=jira-software&logoColor=white)
 ![Postman](https://img.shields.io/badge/-Postman-FF6C37?style=flat&logo=postman&logoColor=white)
-
-
+</div>
 
 ## 📊 Most Used Languages
 
+<div align="center">
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MichaelVerthin&layout=compact&theme=radical)](https://github.com/MichaelVerthin)
+</div>
 
 ## 📈 GitHub Stats
 
+<div align="center">
 [![GitHub Stats](https://github-readme-stats.vercel.app/api?username=MichaelVerthin&count_private=true&show_icons=true&theme=radical)](https://github.com/MichaelVerthin)
+</div>
 
+## 🚀 Featured Repository
 
-## 📚 Latest Blog Posts
-
-<!-- BLOG-POST-LIST:START -->
-- [My Latest Blog Post](https://medium.com/@MichaelVerthin)
-<!-- BLOG-POST-LIST:END -->
+<div align="center">
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=MichaelVerthin&repo=Projects-Java&show_owner=true)](https://github.com/MichaelVerthin/Projects-Java)
+</div>
 
 ## 📫 Let's Connect
 
+<div align="center">
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat&logo=LinkedIn&logoColor=white)](https://www.linkedin.com/in/michael-verthin/)
 [![Twitter](https://img.shields.io/badge/-Twitter-1DA1F2?style=flat&logo=Twitter&logoColor=white)](https://twitter.com/MishaSpren)
 [![Website](https://img.shields.io/badge/-Website-%23000000?style=flat)](https://michaelverthin.github.io/qa)
-
+</div>
 
 ## ☕ Support
 
+<div align="center">
 If you find my work helpful, consider [sponsoring me](https://github.com/sponsors/MichaelVerthin). It helps to keep the lights on and allows me to continue creating content and maintaining projects.
+</div>
 
 ## ⚡ Fun fact:
 
+<div align="center">
 WI once found a critical bug in production by following a butterfly effect of seemingly unrelated minor issues during a testing session. Always expect the unexpected in QA!
 </div>
 
