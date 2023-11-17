@@ -1,3 +1,5 @@
+![Profile Views](https://komarev.com/ghpvc/?username=MichaelVerthin)
+
 [![Banner](https://media.licdn.com/dms/image/D4D16AQG3zL-y-Al-fg/profile-displaybackgroundimage-shrink_350_1400/0/1695199553428?e=1705536000&v=beta&t=rw6zpgmZI3L9SUMTvPy_ZLqMlw_BpZcv6OxC-ZKvu3Y)](https://media.licdn.com/dms/image/D4D16AQG3zL-y-Al-fg/profile-displaybackgroundimage-shrink_350_1400/0/1695199553428?e=1705536000&v=beta&t=rw6zpgmZI3L9SUMTvPy_ZLqMlw_BpZcv6OxC-ZKvu3Y)
 
 <h1 align="center">Hi there! 👋</h1>
@@ -21,12 +23,12 @@
 ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white)-->
 
 ### Tools
-![Cypress](https://img.shields.io/badge/-Cypress-17202C?style=flat&logo=cypress&logoColor=white)
-![VS Code](https://img.shields.io/badge/-VS%20Code-007ACC?style=flat&logo=visual-studio-code&logoColor=white)
-![Git](https://img.shields.io/badge/-Git-F05032?style=flat&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat&logo=github&logoColor=white)
-![Jira](https://img.shields.io/badge/-Jira-0052CC?style=flat&logo=jira-software&logoColor=white)
-![Postman](https://img.shields.io/badge/-Postman-FF6C37?style=flat&logo=postman&logoColor=white)
+![Cypress](https://img.shields.io/badge/-Cypress-17202C?style=for-the-badge&logo=cypress&logoColor=white)
+![VS Code](https://img.shields.io/badge/-VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+![Git](https://img.shields.io/badge/-Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/-GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+![Jira](https://img.shields.io/badge/-Jira-0052CC?style=for-the-badge&logo=jira-software&logoColor=white)
+![Postman](https://img.shields.io/badge/-Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
 
 </div>
 
@@ -59,9 +61,9 @@
 
 <div align="center">
   
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat&logo=LinkedIn&logoColor=white)](https://www.linkedin.com/in/michael-verthin/)
-[![Twitter](https://img.shields.io/badge/-Twitter-1DA1F2?style=flat&logo=Twitter&logoColor=white)](https://twitter.com/MishaSpren)
-[![Website](https://img.shields.io/badge/My%20Website-%23FF6E32?style=flat&logo=google-chrome&logoColor=white)](https://michaelverthin.github.io/qa)
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=LinkedIn&logoColor=white)](https://www.linkedin.com/in/michael-verthin/)
+[![Twitter](https://img.shields.io/badge/-Twitter-1DA1F2?style=for-the-badge&logo=Twitter&logoColor=white)](https://twitter.com/MishaSpren)
+[![Website](https://img.shields.io/badge/My%20Website-%23FF6E32?style=for-the-badge&logo=google-chrome&logoColor=white)](https://michaelverthin.github.io/qa)
 
 </div>
 
