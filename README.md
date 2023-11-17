@@ -1,4 +1,8 @@
-![Profile Views](https://komarev.com/ghpvc/?username=MichaelVerthin)
+<div align="center">
+
+![Profile Views](https://komarev.com/ghpvc/?username=MichaelVerthin&style=for-the-badge)
+
+</div>
 
 [![Banner](https://media.licdn.com/dms/image/D4D16AQG3zL-y-Al-fg/profile-displaybackgroundimage-shrink_350_1400/0/1695199553428?e=1705536000&v=beta&t=rw6zpgmZI3L9SUMTvPy_ZLqMlw_BpZcv6OxC-ZKvu3Y)](https://media.licdn.com/dms/image/D4D16AQG3zL-y-Al-fg/profile-displaybackgroundimage-shrink_350_1400/0/1695199553428?e=1705536000&v=beta&t=rw6zpgmZI3L9SUMTvPy_ZLqMlw_BpZcv6OxC-ZKvu3Y)
 
