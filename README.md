@@ -6,12 +6,12 @@ I'm Michael Verthin, a passionate Quality Assurance tester. Welcome to my GitHub
 
 ## 🔧 Technologies & Tools
 
-![Git](https://img.shields.io/badge/-Git-333333?style=flat&logo=git)
-![VS Code](https://img.shields.io/badge/-VS%20Code-333333?style=flat&logo=visual-studio-code)
-![Java](https://img.shields.io/badge/-Java-333333?style=flat&logo=java)
+![Git](https://img.shields.io/badge/-Git-F05032?style=flat&logo=git&logoColor=white)
+![VS Code](https://img.shields.io/badge/-VS%20Code-007ACC?style=flat&logo=visual-studio-code&logoColor=white)
+![Java](https://img.shields.io/badge/-Java-007396?style=flat&logo=java&logoColor=white)
 ![C](https://img.shields.io/badge/-C-00599C?style=flat&logo=c&logoColor=white)
-![JIRA](https://img.shields.io/badge/-JIRA-333333?style=flat&logo=jira-software)
-![Postman](https://img.shields.io/badge/-Postman-333333?style=flat&logo=postman)
+![Jira](https://img.shields.io/badge/-Jira-0052CC?style=flat&logo=jira-software&logoColor=white)
+![Postman](https://img.shields.io/badge/-Postman-FF6C37?style=flat&logo=postman&logoColor=white)
 
 ## 📊 Most Used Languages
 
