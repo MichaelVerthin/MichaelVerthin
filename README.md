@@ -29,7 +29,7 @@
 
 <div align="center">
   
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MichaelVerthin&layout=compact&langs_count=8&theme=neon)](https://github.com/MichaelVerthin)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MichaelVerthin&layout=compact&langs_count=8&theme=calm_pink)](https://github.com/MichaelVerthin)
 
 </div>
 
@@ -37,7 +37,7 @@
 
 <div align="center">
   
-[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=MichaelVerthin&count_private=true&show_icons=true&theme=neon)](https://github.com/MichaelVerthin)
+[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=MichaelVerthin&count_private=true&show_icons=true&theme=calm_pink)](https://github.com/MichaelVerthin)
 
 </div>
 
@@ -45,8 +45,8 @@
 
 <div align="center">
   
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=MichaelVerthin&repo=Projects-Java&show_owner=true&theme=neon)](https://github.com/MichaelVerthin/Projects-Java)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=MichaelVerthin&repo=qa&show_owner=true&theme=neon)](https://github.com/MichaelVerthin/qa)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=MichaelVerthin&repo=Projects-Java&show_owner=true&theme=calm_pink)](https://github.com/MichaelVerthin/Projects-Java)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=MichaelVerthin&repo=qa&show_owner=true&theme=calm_pink)](https://github.com/MichaelVerthin/qa)
 
 </div>
 
