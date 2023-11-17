@@ -23,12 +23,11 @@
 ![Jira](https://img.shields.io/badge/-Jira-0052CC?style=flat&logo=jira-software&logoColor=white)
 ![Postman](https://img.shields.io/badge/-Postman-FF6C37?style=flat&logo=postman&logoColor=white)
 
-</div>
 
 
 ## 📊 Most Used Languages
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MichaelVerthin&layout=compact)](https://github.com/MichaelVerthin)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MichaelVerthin&layout=compact&theme=radical)](https://github.com/MichaelVerthin)
 
 ## 📈 GitHub Stats
 
@@ -55,4 +54,5 @@ If you find my work helpful, consider [sponsoring me](https://github.com/sponsor
 ## ⚡ Fun fact:
 
 WI once found a critical bug in production by following a butterfly effect of seemingly unrelated minor issues during a testing session. Always expect the unexpected in QA!
+</div>
 
