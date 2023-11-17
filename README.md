@@ -83,7 +83,7 @@ If you find my work helpful, consider [sponsoring me](https://github.com/sponsor
 
 <div align="center">
   
-WI once found a critical bug in production by following a butterfly effect of seemingly unrelated minor issues during a testing session. Always expect the unexpected in QA!
+I once found a critical bug in production by following a butterfly effect of seemingly unrelated minor issues during a testing session. Always expect the unexpected in QA!
 
 </div>
 
