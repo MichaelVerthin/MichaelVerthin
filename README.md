@@ -1,12 +1,12 @@
 [![Banner](https://media.licdn.com/dms/image/D4D16AQG3zL-y-Al-fg/profile-displaybackgroundimage-shrink_350_1400/0/1695199553428?e=1705536000&v=beta&t=rw6zpgmZI3L9SUMTvPy_ZLqMlw_BpZcv6OxC-ZKvu3Y)](https://media.licdn.com/dms/image/D4D16AQG3zL-y-Al-fg/profile-displaybackgroundimage-shrink_350_1400/0/1695199553428?e=1705536000&v=beta&t=rw6zpgmZI3L9SUMTvPy_ZLqMlw_BpZcv6OxC-ZKvu3Y)
 
-<center>
+<p align="center">
 # Hi there! 👋
 
 I'm Michael Verthin, a passionate Quality Assurance tester. Welcome to my GitHub profile! 
 
 🌱 I'm currently learning Java & C language
-</center>
+</p>
 
 ## 🔧 Technologies & Tools
 
