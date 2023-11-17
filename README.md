@@ -61,7 +61,7 @@
   
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat&logo=LinkedIn&logoColor=white)](https://www.linkedin.com/in/michael-verthin/)
 [![Twitter](https://img.shields.io/badge/-Twitter-1DA1F2?style=flat&logo=Twitter&logoColor=white)](https://twitter.com/MishaSpren)
-[![Website](https://img.shields.io/badge/-Website-%23000000?style=flat)](https://michaelverthin.github.io/qa)
+[![Website](https://img.shields.io/badge/Visit%20My%20Website-%23000000?style=flat&logo=google-chrome&logoColor=white)](https://michaelverthin.github.io/qa)
 
 </div>
 
