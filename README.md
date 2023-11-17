@@ -1,16 +1,18 @@
+[![Banner](https://media.licdn.com/dms/image/D4D16AQG3zL-y-Al-fg/profile-displaybackgroundimage-shrink_350_1400/0/1695199553428?e=1705536000&v=beta&t=rw6zpgmZI3L9SUMTvPy_ZLqMlw_BpZcv6OxC-ZKvu3Y)](https://media.licdn.com/dms/image/D4D16AQG3zL-y-Al-fg/profile-displaybackgroundimage-shrink_350_1400/0/1695199553428?e=1705536000&v=beta&t=rw6zpgmZI3L9SUMTvPy_ZLqMlw_BpZcv6OxC-ZKvu3Y)
+
+<center>
 # Hi there! 👋
 
 I'm Michael Verthin, a passionate Quality Assurance tester. Welcome to my GitHub profile! 
 
 🌱 I'm currently learning Java & C language
-
-[![Banner](https://media.licdn.com/dms/image/D4D16AQG3zL-y-Al-fg/profile-displaybackgroundimage-shrink_350_1400/0/1695199553428?e=1705536000&v=beta&t=rw6zpgmZI3L9SUMTvPy_ZLqMlw_BpZcv6OxC-ZKvu3Y)](https://media.licdn.com/dms/image/D4D16AQG3zL-y-Al-fg/profile-displaybackgroundimage-shrink_350_1400/0/1695199553428?e=1705536000&v=beta&t=rw6zpgmZI3L9SUMTvPy_ZLqMlw_BpZcv6OxC-ZKvu3Y)
+</center>
 
 ## 🔧 Technologies & Tools
 
 ![Git](https://img.shields.io/badge/-Git-F05032?style=flat&logo=git&logoColor=white)
 ![VS Code](https://img.shields.io/badge/-VS%20Code-007ACC?style=flat&logo=visual-studio-code&logoColor=white)
-[![Java](https://i.pinimg.com/564x/d3/f0/70/d3f07076d8260b0462bb136a6c2f869f.jpg)](https://www.java.com/)
+[![Java](https://img.shields.io/badge/-Java-007396?style=flat&logo=java&logoColor=white)](https://www.java.com/)
 ![C](https://img.shields.io/badge/-C-00599C?style=flat&logo=c&logoColor=white)
 ![Jira](https://img.shields.io/badge/-Jira-0052CC?style=flat&logo=jira-software&logoColor=white)
 ![Postman](https://img.shields.io/badge/-Postman-FF6C37?style=flat&logo=postman&logoColor=white)
