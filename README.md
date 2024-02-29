@@ -57,7 +57,6 @@
 <div align="center">
   
 [![GitHub Stats](https://github-readme-stats.vercel.app/api?username=MichaelVerthin&count_private=true&show_icons=true&theme=calm_pink)](https://github.com/MichaelVerthin)
-![MichaelVerthin's Streak](https://github-readme-streak-stats.herokuapp.com/?user=MichaelVerthin&theme=calm_pink)
 
 </div>
 
