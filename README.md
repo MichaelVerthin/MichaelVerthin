@@ -4,8 +4,8 @@
 
 </div>
 
-[![Banner](https://media.licdn.com/dms/image/D4D16AQG3zL-y-Al-fg/profile-displaybackgroundimage-shrink_350_1400/0/1695199553428?e=1705536000&v=beta&t=rw6zpgmZI3L9SUMTvPy_ZLqMlw_BpZcv6OxC-ZKvu3Y)](https://media.licdn.com/dms/image/D4D16AQG3zL-y-Al-fg/profile-displaybackgroundimage-shrink_350_1400/0/1695199553428?e=1705536000&v=beta&t=rw6zpgmZI3L9SUMTvPy_ZLqMlw_BpZcv6OxC-ZKvu3Y)
-[image](https://github.com/MichaelVerthin/MichaelVerthin/assets/86958340/32e519e0-f20a-48ef-ab14-90f0116dd84f)<div align="center">
+[![Banner](https://media.licdn.com/dms/image/D4D16AQG3zL-y-Al-fg/profile-displaybackgroundimage-shrink_350_1400/0/1695199553428?e=1705536000&v=beta&t=rw6zpgmZI3L9SUMTvPy_ZLqMlw_BpZcv6OxC-ZKvu3Y)](https://github.com/MichaelVerthin/MichaelVerthin/assets/86958340/32e519e0-f20a-48ef-ab14-90f0116dd84f)
+
 <h1 align="center">Hi there! 👋</h1>
 
 <h3 align="center">I'm Michael Verthin, a passionate Quality Assurance tester. Welcome to my GitHub profile! </h3>
