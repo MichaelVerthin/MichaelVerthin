@@ -1,5 +1,5 @@
-<!--![image](https://github.com/MichaelVerthin/MichaelVerthin/assets/86958340/32e519e0-f20a-48ef-ab14-90f0116dd84f)<div align="center">-->
-
+<h1 align="center">
+  
 ![Profile Views](https://komarev.com/ghpvc/?username=MichaelVerthin&style=for-the-badge&color=FF6E32&base=1230)
 
 </div>
