@@ -13,7 +13,7 @@
 
 <h3 align="center">🌱 I'm currently learning Java & C language</h3>
 
-## 🔧 Technologies & Tools
+## $\color{rgb(255,127,39)}\large{\textsf{🔧 Technologies & Tools}}$
 
 <div align="center">
 
@@ -37,9 +37,7 @@
 
 </div>
 
-## $${\color{orange}📊\space\color{orange}Most\space\color{orange}Used\space\color{orange}Languages}$$
 ## $\color{rgb(255,127,39)}\large{\textsf{📊 Most Used Languages}}$
-## 📊 Most Used Languages
 
 <div align="center">
   
@@ -47,7 +45,7 @@
 
 </div>
 
-## 📈 My Streak!
+## $\color{rgb(255,127,39)}\large{\textsf{📈 My Streak!}}$
 
 <div align="center">
   
@@ -55,7 +53,7 @@
 
 </div>
 
-## 📈 GitHub Stats
+## $\color{rgb(255,127,39)}\large{\textsf{📈 GitHub Stats}}$
 
 <div align="center">
   
@@ -63,7 +61,7 @@
 
 </div>
 
-## 🚀 Featured Repository
+## $\color{rgb(255,127,39)}\large{\textsf{🚀 Featured Repository}}$
 
 <div align="center">
   
@@ -72,7 +70,7 @@
 
 </div>
 
-## 📫 Let's Connect
+## $\color{rgb(255,127,39)}\large{\textsf{📫 Let's Connect}}$
 
 <div align="center">
   
@@ -82,7 +80,7 @@
 
 </div>
 
-## ☕ Support
+## $\color{rgb(255,127,39)}\large{\textsf{☕ Support}}$
 
 <div align="center">
   
@@ -90,7 +88,7 @@ If you find my work helpful, consider [sponsoring me](https://github.com/sponsor
 
 </div>
 
-## ⚡ Fun fact:
+## $\color{rgb(255,127,39)}\large{\textsf{⚡ Fun fact:}}$
 
 <div align="center">
   
