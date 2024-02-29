@@ -38,7 +38,7 @@
 </div>
 
 ## $${\color{orange}📊\space\color{orange}Most\space\color{orange}Used\space\color{orange}Languages}$$
-$\color{red}{\textsf{lorem ipsum}}$
+## $\color{burnt orange}{\textsf{📊 Most Used Languages}}$
 ## 📊 Most Used Languages
 
 <div align="center">
