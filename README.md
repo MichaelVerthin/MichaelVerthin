@@ -51,7 +51,8 @@
 
 <div align="center">
   
-[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=MichaelVerthin&count_private=true&show_icons=true&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage&theme=calm_pink)](https://github.com/MichaelVerthin)
+[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=MichaelVerthin&count_private=true&show_icons=true&theme=calm_pink)](https://github.com/MichaelVerthin)
+![MichaelVerthin's Streak](https://github-readme-streak-stats.herokuapp.com/?user=MichaelVerthin&theme=calm_pink)
 
 </div>
 
