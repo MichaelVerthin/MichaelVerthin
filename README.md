@@ -1,4 +1,4 @@
-<h1 align="center">
+<div align="center">
   
 ![Profile Views](https://komarev.com/ghpvc/?username=MichaelVerthin&style=for-the-badge&color=FF6E32&base=1230)
 
@@ -6,13 +6,16 @@
 
 ![image](https://github.com/MichaelVerthin/MichaelVerthin/assets/86958340/7f82b9c4-8e74-4c68-a82e-f9eaf32b7004)
 
+<div align="center">
 
 <h1 align="center">Hi there! 👋</h1>
 
 <h3 align="center">I'm Michael Verthin, a passionate Quality Assurance tester. Welcome to my GitHub profile! </h3>
 
 <h3 align="center">🌱 I'm currently learning Java & C language</h3>
+</div>
 
+## $\color{rgb(255,127,39)}\large{\textsf{🔧 Technologies & Tools}}$
 ## 🔧 Technologies & Tools
 
 <div align="center">
