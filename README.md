@@ -39,11 +39,16 @@
 ## 📊 Most Used Languages
 
 <div align="center">
-
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=MichaelVerthin&theme=calm_pink&repo=github-readme-stats)](https://github.com/MichaelVerthin/github-readme-stats)
-
   
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MichaelVerthin&layout=compact&langs_count=8&theme=calm_pink)](https://github.com/MichaelVerthin)
+
+</div>
+
+## 📈 My Streak!
+
+<div align="center">
+  
+![MichaelVerthin's Streak](https://github-readme-streak-stats.herokuapp.com/?user=MichaelVerthin&theme=calm_pink)
 
 </div>
 
