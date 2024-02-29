@@ -13,7 +13,6 @@
 
 <h3 align="center">🌱 I'm currently learning Java & C language</h3>
 
-## $\color{rgb(255,127,39)}\large{\textsf{🔧 Technologies & Tools}}$
 ## 🔧 Technologies & Tools
 
 <div align="center">
