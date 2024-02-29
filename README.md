@@ -37,7 +37,7 @@
 
 </div>
 
-## $${\color{red} 📊 Most Used Languages}$$
+## $$${\color{orange}📊 Most Used Languages}$$$
 ## 📊 Most Used Languages
 
 <div align="center">
