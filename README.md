@@ -84,14 +84,6 @@
 
 </div>
 
-## $\color{rgb(255,127,39)}\large{\textsf{☕ Support}}$
-
-<div align="center">
-  
-If you find my work helpful, consider [sponsoring me](https://github.com/sponsors/MichaelVerthin). It helps to keep the lights on and allows me to continue creating content and maintaining projects.
-
-</div>
-
 ## $\color{rgb(255,127,39)}\large{\textsf{⚡ Fun fact:}}$
 
 <div align="center">
