@@ -69,7 +69,7 @@
   
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=MichaelVerthin&repo=Projects-Java&show_owner=true&theme=calm_pink)](https://github.com/MichaelVerthin/Projects-Java)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=MichaelVerthin&repo=qa&show_owner=true&theme=calm_pink)](https://github.com/MichaelVerthin/qa)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=MichaelVerthin&repo=ANSI_C_Assembler&show_owner=true&theme=calm_pink)](https://github.com/MichaelVerthin/ANSI_C_Assembler)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=MichaelVerthin&repo=C_Assembler&show_owner=true&theme=calm_pink)](https://github.com/MichaelVerthin/C_Assembler)
 
 
 </div>
