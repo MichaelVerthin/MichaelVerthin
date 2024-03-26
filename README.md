@@ -88,7 +88,7 @@
 
 <div align="center">
   
-I once found a critical bug in production by following a butterfly effect of seemingly unrelated minor issues during a testing session. Always expect the unexpected in QA!
+I once found a critical bug in production by following a butterfly effect of seemingly unrelated minor issues during a testing session.<br />Always expect the unexpected in QA!
 
 </div>
 
