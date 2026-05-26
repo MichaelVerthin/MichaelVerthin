@@ -10,9 +10,9 @@
 
 <h1 align="center">Hi there! 👋</h1>
 
-<h3 align="center">I'm Michael Verthin, a passionate Quality Assurance tester. Welcome to my GitHub profile! </h3>
+<h3 align="center">I'm Michael Verthin, a passionate cybersecurity enthusiast. Welcome to my GitHub profile! </h3>
 
-<h3 align="center">🌱 I'm currently learning Java & C language</h3>
+<!-- <h3 align="center">🌱 I'm currently learning Java & C language</h3> -->
 </div>
 
 ## $\color{rgb(255,127,39)}\large{\textsf{🔧 Technologies and Tools}}$
