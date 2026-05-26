@@ -1,9 +1,3 @@
-<div align="center">
-  
-![Profile Views](https://komarev.com/ghpvc/?username=MichaelVerthin&style=for-the-badge&color=FF6E32&base=1230)
-
-</div>
-
 ![image](https://github.com/MichaelVerthin/MichaelVerthin/assets/86958340/7f82b9c4-8e74-4c68-a82e-f9eaf32b7004)
 
 <div align="center">
@@ -11,7 +5,11 @@
 <h1 align="center">Hi there! 👋</h1>
 
 <h3 align="center">I'm Michael Verthin, a passionate Cybersecurity enthusiast. Welcome to my GitHub profile! </h3>
+<div align="center">
+  
+![Profile Views](https://komarev.com/ghpvc/?username=MichaelVerthin&style=for-the-badge&color=FF6E32&base=1230)
 
+</div>
 <!-- <h3 align="center">🌱 I'm currently learning Java & C language</h3> -->
 </div>
 
