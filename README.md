@@ -43,10 +43,9 @@
 
 <div align="center">
 
-![Top Languages](https://github-readme-stats.tuhidulhossain.com/api/top-langs?username=MichaelVerthin&theme=dracula)
-[![Pranesh's GitHub stats](https://github-readme-stats-fast.vercel.app/api?username=Pranesh-2005)](https://github.com/pranesh-2005/github-readme-stats-fast)
-[![Top Langs](https://github-readme-stats.tuhidulhossain.com/api/top-langs?username=MichaelVerthin&layout=compact&langs_count=8&theme=dracula)](https://github.com/MichaelVerthin)
-[![Top Langs](https://michael-verthin.vercel.app/api/top-langs?username=MichaelVerthin&layout=compact&langs_count=8&theme=dracula)](https://github.com/MichaelVerthin)
+![Top Languages](https://github-readme-stats.tuhidulhossain.com/api/top-langs?username=MichaelVerthin&theme=dracula&layout=compact&langs_count=8&theme=dracula)
+<!--[![Pranesh's GitHub stats](https://github-readme-stats-fast.vercel.app/api?username=Pranesh-2005)](https://github.com/pranesh-2005/github-readme-stats-fast)
+[![Top Langs](https://github-readme-stats.tuhidulhossain.com/api/top-langs?username=MichaelVerthin&layout=compact&langs_count=8&theme=dracula)](https://github.com/MichaelVerthin)-->
 
 </div>
 
