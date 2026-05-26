@@ -61,7 +61,7 @@
 
 <div align="center">
   
-[![GitHub Stats](https://github-readme-stats.tuhidulhossain.com/api?username=MichaelVerthin&count_private=true&show_icons=true&theme=dracula)](https://github.com/MichaelVerthin)
+[![GitHub Stats](https://github-readme-stats.tuhidulhossain.com/api/stats?username=MichaelVerthin&count_private=true&show_icons=true&theme=dracula)](https://github.com/MichaelVerthin)
 
 </div>
 
