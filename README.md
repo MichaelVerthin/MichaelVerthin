@@ -43,8 +43,8 @@
 
 <div align="center">
 <!-- [![Pranesh's GitHub stats](https://github-readme-stats-fast.vercel.app/api?username=Pranesh-2005)](https://github.com/pranesh-2005/github-readme-stats-fast) -->
-[![Top Langs](https://github-readme-stats.tuhidulhossain.com/api/top-langs?username=MichaelVerthin&layout=compact&langs_count=8&theme=calm_pink)](https://github.com/MichaelVerthin)
-<!-- [![Top Langs](https://michael-verthin.vercel.app/api/top-langs?username=MichaelVerthin&layout=compact&langs_count=8&theme=calm_pink)](https://github.com/MichaelVerthin) -->
+[![Top Langs](https://github-readme-stats.tuhidulhossain.com/api/top-langs?username=MichaelVerthin&layout=compact&langs_count=8&theme=dracula)](https://github.com/MichaelVerthin)
+<!-- [![Top Langs](https://michael-verthin.vercel.app/api/top-langs?username=MichaelVerthin&layout=compact&langs_count=8&theme=dracula)](https://github.com/MichaelVerthin) -->
 
 </div>
 
@@ -52,7 +52,7 @@
 
 <div align="center">
   
-![MichaelVerthin's Streak](https://github-readme-streak-stats.herokuapp.com/?user=MichaelVerthin&theme=calm_pink)
+![MichaelVerthin's Streak](https://github-readme-streak-stats.herokuapp.com/?user=MichaelVerthin&theme=dracula)
 
 </div>
 
@@ -60,7 +60,7 @@
 
 <div align="center">
   
-[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=MichaelVerthin&count_private=true&show_icons=true&theme=calm_pink)](https://github.com/MichaelVerthin)
+[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=MichaelVerthin&count_private=true&show_icons=true&theme=dracula)](https://github.com/MichaelVerthin)
 
 </div>
 
@@ -68,9 +68,9 @@
 
 <div align="center">
   
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=MichaelVerthin&repo=Projects-Java&show_owner=true&theme=calm_pink)](https://github.com/MichaelVerthin/Projects-Java)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=MichaelVerthin&repo=qa&show_owner=true&theme=calm_pink)](https://github.com/MichaelVerthin/qa)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=MichaelVerthin&repo=C_Assembler&show_owner=true&theme=calm_pink)](https://github.com/MichaelVerthin/C_Assembler)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=MichaelVerthin&repo=Projects-Java&show_owner=true&theme=dracula)](https://github.com/MichaelVerthin/Projects-Java)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=MichaelVerthin&repo=qa&show_owner=true&theme=dracula)](https://github.com/MichaelVerthin/qa)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=MichaelVerthin&repo=C_Assembler&show_owner=true&theme=dracula)](https://github.com/MichaelVerthin/C_Assembler)
 
 
 </div>
