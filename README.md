@@ -1,4 +1,3 @@
-npx plugins add vercel/vercel-plugin
 <div align="center">
   
 ![Profile Views](https://komarev.com/ghpvc/?username=MichaelVerthin&style=for-the-badge&color=FF6E32&base=1230)
@@ -44,7 +43,7 @@ npx plugins add vercel/vercel-plugin
 
 <div align="center">
 <!-- [![Pranesh's GitHub stats](https://github-readme-stats-fast.vercel.app/api?username=Pranesh-2005)](https://github.com/pranesh-2005/github-readme-stats-fast) -->
-<!-- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MichaelVerthin&layout=compact&langs_count=8&theme=calm_pink)](https://github.com/MichaelVerthin) -->
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MichaelVerthin&layout=compact&langs_count=8&theme=calm_pink)](https://github.com/MichaelVerthin)
 [![Top Langs](https://michael-verthin.vercel.app/api/top-langs/?username=MichaelVerthin&layout=compact&langs_count=8&theme=calm_pink)](https://github.com/MichaelVerthin)
 
 </div>
